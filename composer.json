@@ -1,0 +1,12 @@
+{
+    "name": "yoga/calculator",
+    "description": "Testing Package",
+    "authors": [
+        {
+            "name": "Yoga Hendrawan",
+            "email": "yoga.oga94@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
